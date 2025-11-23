@@ -9,6 +9,7 @@ Project overview.
 - React
 - Typescript
 - Vite
+- Vitest and React Testing Library
 
 ## Getting Started
 
